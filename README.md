@@ -3,7 +3,7 @@
 
 *Transforming data into meaningful insights through analysis and problem-solving.*
 
-[LinkedIn](https://www.linkedin.com/in/bala-mukesh-1ba727404/) • [LeetCode](https://leetcode.com/u/mukesh_works/) • [GitHub](https://github.com/balamukesh-works)
+[🌐 Portfolio](https://balamukesh-works.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/bala-mukesh-1ba727404/) • [LeetCode](https://leetcode.com/u/mukesh_works/) • [GitHub](https://github.com/balamukesh-works)
 
 ---
 
